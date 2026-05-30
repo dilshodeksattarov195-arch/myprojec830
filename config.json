@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereender",
+        "uuid": 7714850,
+        "checksum": "gq85cj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
